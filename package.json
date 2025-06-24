@@ -15,6 +15,6 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "@open-rlb/date-tz": "^1.0.1"
+    "@open-rlb/date-tz": "^1.0.2"
   }
 }
